@@ -1,4 +1,4 @@
-p {
+.text1{
   color: goldenrod;
 }
 
@@ -8,4 +8,13 @@ p {
 
 .h3{
   color: rgb(42, 165, 61);
+}
+
+#heading{
+  font-size: small;
+  align-content: end;
+}
+
+#text{
+  align-content: center;
 }
