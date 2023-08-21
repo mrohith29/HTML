@@ -22,3 +22,8 @@
   align-content: center;
 }
 
+.background-image{
+  border: 10px solid greenyellow;
+  padding: 10px;
+  margin: 60px;
+}
