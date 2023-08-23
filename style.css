@@ -30,6 +30,7 @@
 
 .picbox{
   text-align: center;
+  background-color: aquamarine;
 }
 
 .picbox img{
@@ -37,6 +38,7 @@
   max-height: 100%;
   border: 20px groove black;
   padding: 20px;
-  margin: 20px;
-
+  background-color: blue;
+  margin: 20px;  
 }
+
