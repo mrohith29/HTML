@@ -42,3 +42,10 @@
   margin: 20px;  
 }
 
+#intro{
+  background-color: aqua;
+  color: black;
+  text-decoration: underline;
+  text-align: center;
+  position: static;
+}
