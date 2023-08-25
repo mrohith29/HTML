@@ -49,3 +49,16 @@
   text-align: center;
   position: static;
 }
+
+footer{
+  text-align: end;
+  text-size-adjust: 1000px;
+  color: rgb(71, 42, 165);
+  border: 20px groove black;
+  box-sizing: border-box;
+  display: inline-block;
+  width: 210px;
+  height: 200px;
+  box-decoration-break: slice;
+  float: left;
+}
