@@ -60,5 +60,5 @@ footer{
   width: 210px;
   height: 200px;
   box-decoration-break: slice;
-  float: left;
+  /* float: left; */
 }
