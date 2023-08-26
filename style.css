@@ -48,6 +48,7 @@
   text-decoration: underline;
   text-align: center;
   position: static;
+  background-color: rgb(rgb(154, 158, 161), rgb(0, 11, 128), rgb(255, 0, 21));
 }
 
 footer{
@@ -60,5 +61,5 @@ footer{
   width: 210px;
   height: 200px;
   box-decoration-break: slice;
-  /* float: left; */
+  background-color: hsl(267, 59%, 70%);
 }
