@@ -63,3 +63,19 @@ footer{
   box-decoration-break: slice;
   background-color: hsl(267, 59%, 70%);
 }
+
+.end{ 
+  font-weight: 900;
+  font-family:  bold, italic, serif;
+}
+
+.para1 p{
+  letter-spacing: 0.3em;
+  word-spacing: 1em;
+  font-family: bold, italic;
+}
+
+.para2 p{
+  line-height: 1cm;
+  text-align: center;
+}
